@@ -1,0 +1,40 @@
+function_x : 1173.99 microseconds 
+ Hardware popcount duration : 1086.83 microseconds 
+hardware popcount is faster
+--------------------------------------------------------
+function_x : 754.248 microseconds 
+ Hardware popcount duration : 683.259 microseconds 
+hardware popcount is faster
+--------------------------------------------------------
+function_x : 351.249 microseconds 
+ Hardware popcount duration : 327.795 microseconds 
+hardware popcount is faster
+--------------------------------------------------------
+function_x : 375.607 microseconds 
+ Hardware popcount duration : 398.192 microseconds 
+function_x is faster
+--------------------------------------------------------
+function_x : 349.855 microseconds 
+ Hardware popcount duration : 354.192 microseconds 
+function_x is faster
+--------------------------------------------------------
+function_x : 320.252 microseconds 
+ Hardware popcount duration : 328.61 microseconds 
+function_x is faster
+--------------------------------------------------------
+function_x : 434.691 microseconds 
+ Hardware popcount duration : 420.725 microseconds 
+hardware popcount is faster
+--------------------------------------------------------
+function_x : 335.099 microseconds 
+ Hardware popcount duration : 328.372 microseconds 
+hardware popcount is faster
+--------------------------------------------------------
+function_x : 333.068 microseconds 
+ Hardware popcount duration : 351.107 microseconds 
+function_x is faster
+--------------------------------------------------------
+function_x : 429.345 microseconds 
+ Hardware popcount duration : 454.484 microseconds 
+function_x is faster
+--------------------------------------------------------
